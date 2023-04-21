@@ -1,10 +1,10 @@
-# Frontend
+# Setup
 
-Esta carpeta contiene el código para el backend de Clontagram.
+This repository contains the backend code for the Instagram clone React project [https://github.com/diegomottadev/clone-instagram-view].
 
-### Pasos para ejecutar el backend
+## Steps to run the backend
 
-- Revisa que MongoDB este encendido
-- Instala las dependencias: `npm install`
-- Llena la base de datos de data: `npm run seed-db`
-- Enciende el backend `npm run dev`
+    Make sure MongoDB is running
+    Install dependencies: npm install
+    Populate the database with data: npm run seed-db
+    Start the backend: npm run dev
